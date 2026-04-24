@@ -1,0 +1,251 @@
+Date,Category,Amount,Payment_Method,Description
+2025-02-25,BILLS,121,Mobile Money,Bus fare
+2025-03-15,HEALTH,132,Mobile Money,Books
+2025-02-27,shopping,42,Mobile Money,Movie
+2025-03-23,TRANSPORT, 14 ,Mobile Money,Medicine
+2025-03-31,Education,,Card,Medicine
+2025-01-21,Education,53,Mobile Money,Medicine
+2025-01-23,education, 111 ,Mobile Money,Groceries
+2025-01-06,health,105,Mobile Money,Groceries
+2025-01-15,Food,156,Card,Medicine
+2025-03-31,Bills, 17 ,Card,Snacks
+2025-02-22,Food,,Mobile Money,Bus fare
+2025-02-20,Entertainment,76,Cash,Medicine
+2025-03-10,bills, 173 ,Cash,Groceries
+2025-02-02,food,95,Cash,Groceries
+2025-03-26,Food,136,Card,Lunch
+2025-03-24,Food,93,Mobile Money,Bus fare
+2025-02-27,Shopping,151,Cash,Lunch
+2025-02-20,bills,127,Mobile Money,Medicine
+2025-02-07,Transport,152,Card,Groceries
+2025-02-23,transport,200,Card,Movie
+2025-01-20,Shopping,89,Card,Medicine
+2025-01-10,Entertainment,23,Card,Bus fare
+2025-01-03,BILLS, 124 ,Card,Groceries
+2025-01-04,SHOPPING, 41 ,Mobile Money,Snacks
+2025-03-27,Transport,188,Card,Snacks
+2025-01-13,Shopping,7,Cash,Medicine
+2025-02-21,HEALTH,95,Card,Snacks
+2025-01-14,Shopping, 47 ,Card,Movie
+2025-01-30,education,9,Cash,Medicine
+2025-01-12,SHOPPING,185,Card,Movie
+2025-01-04,BILLS,120,Mobile Money,Snacks
+2025-02-06,food, 143 ,Cash,Medicine
+2025-03-09,food,113,Cash,Books
+2025-02-07,EDUCATION,1000,Cash,Medicine
+2025-02-02,Shopping, 190 ,Card,Movie
+2025-03-26,Food, 78 ,Mobile Money,Books
+2025-01-23,Education,94,Cash,Movie
+2025-01-16,health,150,Cash,Electricity bill
+2025-03-16,bills,54,Mobile Money,Electricity bill
+2025-02-25,food,,Mobile Money,Groceries
+2025-02-10,Food,153,Cash,Groceries
+2025-03-06,Education,93,Mobile Money,Snacks
+2025-02-18,transport,64,Mobile Money,Lunch
+2025-01-01,food,160,Mobile Money,Movie
+2025-02-16,shopping,,Mobile Money,Movie
+2025-02-10,shopping,150,Card,Groceries
+2025-03-30,transport,57,Cash,Lunch
+2025-01-02,Health,116,Cash,Groceries
+2025-01-03,food,31,Cash,Books
+2025-03-26,Food,144,Card,Bus fare
+2025-02-25,transport,193,Card,Lunch
+2025-02-27,shopping,173,Mobile Money,Groceries
+2025-01-26,transport,125,Card,Lunch
+2025-01-30,Education,186,Mobile Money,Movie
+2025-03-01,FOOD,40,Cash,Groceries
+2025-03-01,Transport, 59 ,Cash,Medicine
+2025-03-18,Entertainment,196,Mobile Money,Movie
+2025-03-02,Transport,85,Card,Medicine
+2025-03-23,FOOD,180,Cash,Bus fare
+2025-03-15,Food,71,Cash,Groceries
+2025-03-13,BILLS, 135 ,Card,Lunch
+2025-02-03,bills,95,Card,Snacks
+2025-02-02,transport,42,Mobile Money,Lunch
+2025-03-31,FOOD,55,Mobile Money,Books
+2025-02-26,FOOD, 192 ,Mobile Money,Movie
+2025-03-29,HEALTH,5,Cash,Books
+2025-03-25,transport,135,Cash,Snacks
+2025-03-30,education,177,Cash,Movie
+2025-01-14,food, 142 ,Card,Books
+2025-01-25,Education,64,Cash,Groceries
+2025-01-16,ENTERTAINMENT,85,Cash,Snacks
+2025-01-21,Transport,137,Mobile Money,Movie
+2025-02-28,education,160,Cash,Lunch
+2025-02-04,Shopping,9,Card,Groceries
+2025-03-25,entertainment,140,Mobile Money,Groceries
+2025-02-24,Bills,183,Card,Bus fare
+2025-03-20,food,51,Cash,Electricity bill
+2025-02-28,Bills,141,Mobile Money,Bus fare
+2025-02-11,education,157,Mobile Money,Electricity bill
+2025-03-09,Entertainment,131,Card,Groceries
+2025-01-05,shopping,69,Card,Movie
+2025-03-29,Bills, 106 ,Mobile Money,Movie
+2025-02-09,Education, 185 ,Mobile Money,Movie
+2025-01-19,TRANSPORT,106,Card,Bus fare
+2025-02-19,Shopping, 200 ,Mobile Money,Electricity bill
+2025-03-15,transport,198,Cash,Medicine
+2025-02-19,Health,165,Card,Groceries
+2025-03-15,Shopping,90,Mobile Money,Medicine
+2025-01-10,entertainment,39,Card,Bus fare
+2025-03-18,Health,125,Cash,Groceries
+2025-03-28,Food,39,Card,Bus fare
+2025-02-19,HEALTH,36,Mobile Money,Lunch
+2025-03-23,entertainment,142,Mobile Money,Lunch
+2025-03-06,Transport,19,Cash,Groceries
+2025-01-25,Shopping,87,Cash,Books
+2025-01-15,Bills,75,Cash,Books
+2025-01-08,Education,99,Cash,Snacks
+2025-03-16,Bills,,Card,Books
+2025-01-05,education,46,Card,Medicine
+2025-02-05,BILLS,184,Cash,Books
+2025-01-29,Shopping,127,Cash,Medicine
+2025-01-10,Education,157,Mobile Money,Medicine
+2025-01-05,Education,14,Card,Electricity bill
+2025-01-30,Shopping,196,Card,Lunch
+2025-02-18,Transport,146,Cash,Bus fare
+2025-03-14,EDUCATION,61,Mobile Money,Bus fare
+2025-03-20,Health,49,Cash,Books
+2025-01-17,transport,156,Mobile Money,Groceries
+2025-03-13,entertainment,149,Cash,Snacks
+2025-02-22,Transport,11,Cash,Bus fare
+2025-03-03,EDUCATION,183,Mobile Money,Lunch
+2025-02-12,entertainment,5,Card,Lunch
+2025-01-30,SHOPPING,69,Mobile Money,Snacks
+2025-03-07,HEALTH,104,Mobile Money,Electricity bill
+2025-03-30,Bills, 179 ,Card,Books
+2025-01-08,shopping,115,Card,Medicine
+2025-01-08,Shopping,76,Card,Bus fare
+2025-02-01,shopping,136,Mobile Money,Movie
+2025-01-05,Transport,82,Card,Lunch
+2025-01-20,Bills, 170 ,Mobile Money,Groceries
+2025-02-09,food,92,Mobile Money,Groceries
+2025-01-13,Bills,176,Card,Electricity bill
+2025-03-30,Health, 183 ,Cash,Books
+2025-03-18,Transport,138,Cash,Groceries
+2025-02-12,Education,80,Card,Medicine
+2025-01-25,Shopping, 72 ,Cash,Medicine
+2025-02-23,shopping,119,Card,Bus fare
+2025-01-31,EDUCATION,1000,Mobile Money,Bus fare
+2025-02-15,Bills,140,Card,Snacks
+2025-02-20,transport,163,Card,Lunch
+2025-01-05,transport,99,Mobile Money,Snacks
+2025-03-17,ENTERTAINMENT, 189 ,Mobile Money,Movie
+2025-01-18,Food,43,Card,Bus fare
+2025-03-03,BILLS,145,Mobile Money,Books
+2025-02-12,Bills, 67 ,Mobile Money,Electricity bill
+2025-02-18,shopping,1000,Cash,Movie
+2025-01-20,shopping,,Card,Electricity bill
+2025-02-28,SHOPPING,183,Mobile Money,Groceries
+2025-03-02,SHOPPING,105,Mobile Money,Books
+2025-03-29,shopping,99,Card,Books
+2025-03-18,Shopping,36,Mobile Money,Bus fare
+2025-01-18,transport,152,Cash,Snacks
+2025-01-07,Health, 89 ,Card,Snacks
+2025-03-04,Food,43,Mobile Money,Snacks
+2025-02-22,EDUCATION,94,Mobile Money,Books
+2025-02-20,Food, 39 ,Cash,Medicine
+2025-01-13,education,167,Card,Snacks
+2025-01-26,Shopping, 66 ,Cash,Lunch
+2025-01-09,Health,5,Card,Lunch
+2025-01-07,Transport,46,Cash,Movie
+2025-03-18,education,185,Card,Movie
+2025-02-26,ENTERTAINMENT,127,Cash,Lunch
+2025-03-02,Entertainment,126,Mobile Money,Movie
+2025-02-23,Education, 63 ,Card,Groceries
+2025-02-10,Food,175,Card,Movie
+2025-03-17,shopping,153,Cash,Lunch
+2025-03-28,SHOPPING,155,Card,Movie
+2025-01-14,Bills,157,Mobile Money,Movie
+2025-02-10,transport,131,Cash,Movie
+2025-03-22,BILLS,148,Mobile Money,Bus fare
+2025-03-03,FOOD,187,Cash,Electricity bill
+2025-03-08,Transport,89,Mobile Money,Medicine
+2025-01-10,FOOD,177,Card,Groceries
+2025-03-10,Bills,181,Cash,Snacks
+2025-01-12,education,71,Mobile Money,Bus fare
+2025-02-26,Transport,194,Cash,Books
+2025-01-30,Entertainment, 90 ,Cash,Electricity bill
+2025-02-09,HEALTH,87,Card,Groceries
+2025-01-24,Shopping, 112 ,Mobile Money,Movie
+2025-01-05,Bills,35,Mobile Money,Books
+2025-01-17,Food,8,Card,Books
+2025-02-14,education, 102 ,Cash,Medicine
+2025-02-18,Health,55,Cash,Snacks
+2025-03-03,health,126,Mobile Money,Bus fare
+2025-02-28,Shopping, 126 ,Cash,Groceries
+2025-01-16,HEALTH,92,Mobile Money,Movie
+2025-02-17,entertainment, 118 ,Cash,Books
+2025-01-25,Health,179,Cash,Medicine
+2025-01-04,Transport,181,Cash,Electricity bill
+2025-02-01,Transport,123,Mobile Money,Electricity bill
+2025-03-02,Shopping,185,Mobile Money,Movie
+2025-01-27,bills,,Cash,Bus fare
+2025-03-24,transport, 177 ,Card,Electricity bill
+2025-01-11,food,29,Card,Medicine
+2025-01-08,HEALTH,187,Cash,Movie
+2025-01-02,Shopping,123,Mobile Money,Movie
+2025-03-20,ENTERTAINMENT,180,Card,Snacks
+2025-02-07,health,199,Mobile Money,Books
+2025-03-04,Entertainment,5,Card,Medicine
+2025-03-04,Bills,25,Mobile Money,Electricity bill
+2025-01-08,Health,109,Card,Lunch
+2025-01-08,Shopping,71,Mobile Money,Books
+2025-03-24,Entertainment, 13 ,Card,Bus fare
+2025-01-10,Entertainment,,Cash,Medicine
+2025-01-10,FOOD,31,Cash,Snacks
+2025-01-29,FOOD,104,Cash,Groceries
+2025-01-18,Transport,190,Mobile Money,Books
+2025-02-12,Health,159,Cash,Lunch
+2025-03-10,FOOD,66,Cash,Lunch
+2025-03-16,Bills, 90 ,Cash,Groceries
+2025-01-17,Transport,1000,Cash,Electricity bill
+2025-02-27,Health,78,Mobile Money,Groceries
+2025-01-26,bills, 142 ,Card,Books
+2025-01-07,HEALTH,10,Card,Electricity bill
+2025-01-27,transport, 11 ,Mobile Money,Books
+2025-03-05,health, 20 ,Card,Books
+2025-02-18,Health,109,Mobile Money,Bus fare
+2025-02-11,BILLS,153,Cash,Medicine
+2025-02-01,food,,Cash,Snacks
+2025-01-21,BILLS, 152 ,Cash,Electricity bill
+2025-02-17,shopping,67,Cash,Books
+2025-02-21,Shopping,8,Cash,Electricity bill
+2025-03-05,TRANSPORT, 42 ,Cash,Movie
+2025-02-26,shopping,67,Mobile Money,Medicine
+2025-01-01,Transport,167,Card,Electricity bill
+2025-01-13,Entertainment,130,Mobile Money,Movie
+2025-03-09,Food,23,Card,Groceries
+2025-03-05,Shopping,125,Cash,Lunch
+2025-03-03,Education,185,Mobile Money,Books
+2025-02-01,Bills,169,Mobile Money,Groceries
+2025-01-13,education,,Mobile Money,Electricity bill
+2025-03-31,Bills,1000,Card,Movie
+2025-01-24,Health,173,Mobile Money,Books
+2025-03-17,Shopping, 160 ,Mobile Money,Groceries
+2025-02-02,bills,173,Card,Books
+2025-01-30,Education,52,Card,Electricity bill
+2025-03-13,FOOD,,Cash,Medicine
+2025-03-16,entertainment,95,Cash,Groceries
+2025-01-30,Entertainment,99,Mobile Money,Books
+2025-02-14,FOOD, 139 ,Mobile Money,Electricity bill
+2025-01-24,Food,129,Mobile Money,Electricity bill
+2025-01-10,EDUCATION,97,Mobile Money,Lunch
+2025-01-15,Entertainment, 139 ,Card,Books
+2025-01-23,Shopping,133,Mobile Money,Groceries
+2025-03-28,shopping,199,Card,Groceries
+2025-04-01,Health,136,Cash,Electricity bill
+2025-01-15,entertainment,84,Mobile Money,Medicine
+2025-01-23,shopping,197,Mobile Money,Movie
+2025-02-09,ENTERTAINMENT,19,Card,Snacks
+2025-02-18,education,,Cash,Medicine
+2025-01-21,HEALTH, 116 ,Mobile Money,Movie
+2025-02-02,bills,145,Mobile Money,Movie
+2025-03-01,shopping,81,Mobile Money,Lunch
+2025-01-02,Bills,64,Cash,Snacks
+2025-01-29,ENTERTAINMENT,130,Card,Books
+2025-03-04,Transport,160,Card,Books
+2025-01-16,SHOPPING, 186 ,Card,Snacks
+2025-02-18,Entertainment, 56 ,Card,Movie
+2025-02-05,food,1000,Cash,Medicine
+2025-01-07,Transport,60,Mobile Money,Snacks
