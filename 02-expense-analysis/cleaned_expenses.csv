@@ -1,0 +1,251 @@
+Date,Category,Amount,Payment_Method,Description,Month,Day,Day_Name
+2025-02-25,Bills,121.0,Mobile Money,Bus fare,2,25,Tuesday
+2025-03-15,Health,132.0,Mobile Money,Books,3,15,Saturday
+2025-02-27,Shopping,42.0,Mobile Money,Movie,2,27,Thursday
+2025-03-23,Transport,14.0,Mobile Money,Medicine,3,23,Sunday
+2025-03-31,Education,119.5,Card,Medicine,3,31,Monday
+2025-01-21,Education,53.0,Mobile Money,Medicine,1,21,Tuesday
+2025-01-23,Education,111.0,Mobile Money,Groceries,1,23,Thursday
+2025-01-06,Health,105.0,Mobile Money,Groceries,1,6,Monday
+2025-01-15,Food,156.0,Card,Medicine,1,15,Wednesday
+2025-03-31,Bills,17.0,Card,Snacks,3,31,Monday
+2025-02-22,Food,119.5,Mobile Money,Bus fare,2,22,Saturday
+2025-02-20,Entertainment,76.0,Cash,Medicine,2,20,Thursday
+2025-03-10,Bills,173.0,Cash,Groceries,3,10,Monday
+2025-02-02,Food,95.0,Cash,Groceries,2,2,Sunday
+2025-03-26,Food,136.0,Card,Lunch,3,26,Wednesday
+2025-03-24,Food,93.0,Mobile Money,Bus fare,3,24,Monday
+2025-02-27,Shopping,151.0,Cash,Lunch,2,27,Thursday
+2025-02-20,Bills,127.0,Mobile Money,Medicine,2,20,Thursday
+2025-02-07,Transport,152.0,Card,Groceries,2,7,Friday
+2025-02-23,Transport,200.0,Card,Movie,2,23,Sunday
+2025-01-20,Shopping,89.0,Card,Medicine,1,20,Monday
+2025-01-10,Entertainment,23.0,Card,Bus fare,1,10,Friday
+2025-01-03,Bills,124.0,Card,Groceries,1,3,Friday
+2025-01-04,Shopping,41.0,Mobile Money,Snacks,1,4,Saturday
+2025-03-27,Transport,188.0,Card,Snacks,3,27,Thursday
+2025-01-13,Shopping,7.0,Cash,Medicine,1,13,Monday
+2025-02-21,Health,95.0,Card,Snacks,2,21,Friday
+2025-01-14,Shopping,47.0,Card,Movie,1,14,Tuesday
+2025-01-30,Education,9.0,Cash,Medicine,1,30,Thursday
+2025-01-12,Shopping,185.0,Card,Movie,1,12,Sunday
+2025-01-04,Bills,120.0,Mobile Money,Snacks,1,4,Saturday
+2025-02-06,Food,143.0,Cash,Medicine,2,6,Thursday
+2025-03-09,Food,113.0,Cash,Books,3,9,Sunday
+2025-02-07,Education,119.5,Cash,Medicine,2,7,Friday
+2025-02-02,Shopping,190.0,Card,Movie,2,2,Sunday
+2025-03-26,Food,78.0,Mobile Money,Books,3,26,Wednesday
+2025-01-23,Education,94.0,Cash,Movie,1,23,Thursday
+2025-01-16,Health,150.0,Cash,Electricity bill,1,16,Thursday
+2025-03-16,Bills,54.0,Mobile Money,Electricity bill,3,16,Sunday
+2025-02-25,Food,119.5,Mobile Money,Groceries,2,25,Tuesday
+2025-02-10,Food,153.0,Cash,Groceries,2,10,Monday
+2025-03-06,Education,93.0,Mobile Money,Snacks,3,6,Thursday
+2025-02-18,Transport,64.0,Mobile Money,Lunch,2,18,Tuesday
+2025-01-01,Food,160.0,Mobile Money,Movie,1,1,Wednesday
+2025-02-16,Shopping,119.5,Mobile Money,Movie,2,16,Sunday
+2025-02-10,Shopping,150.0,Card,Groceries,2,10,Monday
+2025-03-30,Transport,57.0,Cash,Lunch,3,30,Sunday
+2025-01-02,Health,116.0,Cash,Groceries,1,2,Thursday
+2025-01-03,Food,31.0,Cash,Books,1,3,Friday
+2025-03-26,Food,144.0,Card,Bus fare,3,26,Wednesday
+2025-02-25,Transport,193.0,Card,Lunch,2,25,Tuesday
+2025-02-27,Shopping,173.0,Mobile Money,Groceries,2,27,Thursday
+2025-01-26,Transport,125.0,Card,Lunch,1,26,Sunday
+2025-01-30,Education,186.0,Mobile Money,Movie,1,30,Thursday
+2025-03-01,Food,40.0,Cash,Groceries,3,1,Saturday
+2025-03-01,Transport,59.0,Cash,Medicine,3,1,Saturday
+2025-03-18,Entertainment,196.0,Mobile Money,Movie,3,18,Tuesday
+2025-03-02,Transport,85.0,Card,Medicine,3,2,Sunday
+2025-03-23,Food,180.0,Cash,Bus fare,3,23,Sunday
+2025-03-15,Food,71.0,Cash,Groceries,3,15,Saturday
+2025-03-13,Bills,135.0,Card,Lunch,3,13,Thursday
+2025-02-03,Bills,95.0,Card,Snacks,2,3,Monday
+2025-02-02,Transport,42.0,Mobile Money,Lunch,2,2,Sunday
+2025-03-31,Food,55.0,Mobile Money,Books,3,31,Monday
+2025-02-26,Food,192.0,Mobile Money,Movie,2,26,Wednesday
+2025-03-29,Health,5.0,Cash,Books,3,29,Saturday
+2025-03-25,Transport,135.0,Cash,Snacks,3,25,Tuesday
+2025-03-30,Education,177.0,Cash,Movie,3,30,Sunday
+2025-01-14,Food,142.0,Card,Books,1,14,Tuesday
+2025-01-25,Education,64.0,Cash,Groceries,1,25,Saturday
+2025-01-16,Entertainment,85.0,Cash,Snacks,1,16,Thursday
+2025-01-21,Transport,137.0,Mobile Money,Movie,1,21,Tuesday
+2025-02-28,Education,160.0,Cash,Lunch,2,28,Friday
+2025-02-04,Shopping,9.0,Card,Groceries,2,4,Tuesday
+2025-03-25,Entertainment,140.0,Mobile Money,Groceries,3,25,Tuesday
+2025-02-24,Bills,183.0,Card,Bus fare,2,24,Monday
+2025-03-20,Food,51.0,Cash,Electricity bill,3,20,Thursday
+2025-02-28,Bills,141.0,Mobile Money,Bus fare,2,28,Friday
+2025-02-11,Education,157.0,Mobile Money,Electricity bill,2,11,Tuesday
+2025-03-09,Entertainment,131.0,Card,Groceries,3,9,Sunday
+2025-01-05,Shopping,69.0,Card,Movie,1,5,Sunday
+2025-03-29,Bills,106.0,Mobile Money,Movie,3,29,Saturday
+2025-02-09,Education,185.0,Mobile Money,Movie,2,9,Sunday
+2025-01-19,Transport,106.0,Card,Bus fare,1,19,Sunday
+2025-02-19,Shopping,200.0,Mobile Money,Electricity bill,2,19,Wednesday
+2025-03-15,Transport,198.0,Cash,Medicine,3,15,Saturday
+2025-02-19,Health,165.0,Card,Groceries,2,19,Wednesday
+2025-03-15,Shopping,90.0,Mobile Money,Medicine,3,15,Saturday
+2025-01-10,Entertainment,39.0,Card,Bus fare,1,10,Friday
+2025-03-18,Health,125.0,Cash,Groceries,3,18,Tuesday
+2025-03-28,Food,39.0,Card,Bus fare,3,28,Friday
+2025-02-19,Health,36.0,Mobile Money,Lunch,2,19,Wednesday
+2025-03-23,Entertainment,142.0,Mobile Money,Lunch,3,23,Sunday
+2025-03-06,Transport,19.0,Cash,Groceries,3,6,Thursday
+2025-01-25,Shopping,87.0,Cash,Books,1,25,Saturday
+2025-01-15,Bills,75.0,Cash,Books,1,15,Wednesday
+2025-01-08,Education,99.0,Cash,Snacks,1,8,Wednesday
+2025-03-16,Bills,119.5,Card,Books,3,16,Sunday
+2025-01-05,Education,46.0,Card,Medicine,1,5,Sunday
+2025-02-05,Bills,184.0,Cash,Books,2,5,Wednesday
+2025-01-29,Shopping,127.0,Cash,Medicine,1,29,Wednesday
+2025-01-10,Education,157.0,Mobile Money,Medicine,1,10,Friday
+2025-01-05,Education,14.0,Card,Electricity bill,1,5,Sunday
+2025-01-30,Shopping,196.0,Card,Lunch,1,30,Thursday
+2025-02-18,Transport,146.0,Cash,Bus fare,2,18,Tuesday
+2025-03-14,Education,61.0,Mobile Money,Bus fare,3,14,Friday
+2025-03-20,Health,49.0,Cash,Books,3,20,Thursday
+2025-01-17,Transport,156.0,Mobile Money,Groceries,1,17,Friday
+2025-03-13,Entertainment,149.0,Cash,Snacks,3,13,Thursday
+2025-02-22,Transport,11.0,Cash,Bus fare,2,22,Saturday
+2025-03-03,Education,183.0,Mobile Money,Lunch,3,3,Monday
+2025-02-12,Entertainment,5.0,Card,Lunch,2,12,Wednesday
+2025-01-30,Shopping,69.0,Mobile Money,Snacks,1,30,Thursday
+2025-03-07,Health,104.0,Mobile Money,Electricity bill,3,7,Friday
+2025-03-30,Bills,179.0,Card,Books,3,30,Sunday
+2025-01-08,Shopping,115.0,Card,Medicine,1,8,Wednesday
+2025-01-08,Shopping,76.0,Card,Bus fare,1,8,Wednesday
+2025-02-01,Shopping,136.0,Mobile Money,Movie,2,1,Saturday
+2025-01-05,Transport,82.0,Card,Lunch,1,5,Sunday
+2025-01-20,Bills,170.0,Mobile Money,Groceries,1,20,Monday
+2025-02-09,Food,92.0,Mobile Money,Groceries,2,9,Sunday
+2025-01-13,Bills,176.0,Card,Electricity bill,1,13,Monday
+2025-03-30,Health,183.0,Cash,Books,3,30,Sunday
+2025-03-18,Transport,138.0,Cash,Groceries,3,18,Tuesday
+2025-02-12,Education,80.0,Card,Medicine,2,12,Wednesday
+2025-01-25,Shopping,72.0,Cash,Medicine,1,25,Saturday
+2025-02-23,Shopping,119.0,Card,Bus fare,2,23,Sunday
+2025-01-31,Education,119.5,Mobile Money,Bus fare,1,31,Friday
+2025-02-15,Bills,140.0,Card,Snacks,2,15,Saturday
+2025-02-20,Transport,163.0,Card,Lunch,2,20,Thursday
+2025-01-05,Transport,99.0,Mobile Money,Snacks,1,5,Sunday
+2025-03-17,Entertainment,189.0,Mobile Money,Movie,3,17,Monday
+2025-01-18,Food,43.0,Card,Bus fare,1,18,Saturday
+2025-03-03,Bills,145.0,Mobile Money,Books,3,3,Monday
+2025-02-12,Bills,67.0,Mobile Money,Electricity bill,2,12,Wednesday
+2025-02-18,Shopping,119.5,Cash,Movie,2,18,Tuesday
+2025-01-20,Shopping,119.5,Card,Electricity bill,1,20,Monday
+2025-02-28,Shopping,183.0,Mobile Money,Groceries,2,28,Friday
+2025-03-02,Shopping,105.0,Mobile Money,Books,3,2,Sunday
+2025-03-29,Shopping,99.0,Card,Books,3,29,Saturday
+2025-03-18,Shopping,36.0,Mobile Money,Bus fare,3,18,Tuesday
+2025-01-18,Transport,152.0,Cash,Snacks,1,18,Saturday
+2025-01-07,Health,89.0,Card,Snacks,1,7,Tuesday
+2025-03-04,Food,43.0,Mobile Money,Snacks,3,4,Tuesday
+2025-02-22,Education,94.0,Mobile Money,Books,2,22,Saturday
+2025-02-20,Food,39.0,Cash,Medicine,2,20,Thursday
+2025-01-13,Education,167.0,Card,Snacks,1,13,Monday
+2025-01-26,Shopping,66.0,Cash,Lunch,1,26,Sunday
+2025-01-09,Health,5.0,Card,Lunch,1,9,Thursday
+2025-01-07,Transport,46.0,Cash,Movie,1,7,Tuesday
+2025-03-18,Education,185.0,Card,Movie,3,18,Tuesday
+2025-02-26,Entertainment,127.0,Cash,Lunch,2,26,Wednesday
+2025-03-02,Entertainment,126.0,Mobile Money,Movie,3,2,Sunday
+2025-02-23,Education,63.0,Card,Groceries,2,23,Sunday
+2025-02-10,Food,175.0,Card,Movie,2,10,Monday
+2025-03-17,Shopping,153.0,Cash,Lunch,3,17,Monday
+2025-03-28,Shopping,155.0,Card,Movie,3,28,Friday
+2025-01-14,Bills,157.0,Mobile Money,Movie,1,14,Tuesday
+2025-02-10,Transport,131.0,Cash,Movie,2,10,Monday
+2025-03-22,Bills,148.0,Mobile Money,Bus fare,3,22,Saturday
+2025-03-03,Food,187.0,Cash,Electricity bill,3,3,Monday
+2025-03-08,Transport,89.0,Mobile Money,Medicine,3,8,Saturday
+2025-01-10,Food,177.0,Card,Groceries,1,10,Friday
+2025-03-10,Bills,181.0,Cash,Snacks,3,10,Monday
+2025-01-12,Education,71.0,Mobile Money,Bus fare,1,12,Sunday
+2025-02-26,Transport,194.0,Cash,Books,2,26,Wednesday
+2025-01-30,Entertainment,90.0,Cash,Electricity bill,1,30,Thursday
+2025-02-09,Health,87.0,Card,Groceries,2,9,Sunday
+2025-01-24,Shopping,112.0,Mobile Money,Movie,1,24,Friday
+2025-01-05,Bills,35.0,Mobile Money,Books,1,5,Sunday
+2025-01-17,Food,8.0,Card,Books,1,17,Friday
+2025-02-14,Education,102.0,Cash,Medicine,2,14,Friday
+2025-02-18,Health,55.0,Cash,Snacks,2,18,Tuesday
+2025-03-03,Health,126.0,Mobile Money,Bus fare,3,3,Monday
+2025-02-28,Shopping,126.0,Cash,Groceries,2,28,Friday
+2025-01-16,Health,92.0,Mobile Money,Movie,1,16,Thursday
+2025-02-17,Entertainment,118.0,Cash,Books,2,17,Monday
+2025-01-25,Health,179.0,Cash,Medicine,1,25,Saturday
+2025-01-04,Transport,181.0,Cash,Electricity bill,1,4,Saturday
+2025-02-01,Transport,123.0,Mobile Money,Electricity bill,2,1,Saturday
+2025-03-02,Shopping,185.0,Mobile Money,Movie,3,2,Sunday
+2025-01-27,Bills,119.5,Cash,Bus fare,1,27,Monday
+2025-03-24,Transport,177.0,Card,Electricity bill,3,24,Monday
+2025-01-11,Food,29.0,Card,Medicine,1,11,Saturday
+2025-01-08,Health,187.0,Cash,Movie,1,8,Wednesday
+2025-01-02,Shopping,123.0,Mobile Money,Movie,1,2,Thursday
+2025-03-20,Entertainment,180.0,Card,Snacks,3,20,Thursday
+2025-02-07,Health,199.0,Mobile Money,Books,2,7,Friday
+2025-03-04,Entertainment,5.0,Card,Medicine,3,4,Tuesday
+2025-03-04,Bills,25.0,Mobile Money,Electricity bill,3,4,Tuesday
+2025-01-08,Health,109.0,Card,Lunch,1,8,Wednesday
+2025-01-08,Shopping,71.0,Mobile Money,Books,1,8,Wednesday
+2025-03-24,Entertainment,13.0,Card,Bus fare,3,24,Monday
+2025-01-10,Entertainment,119.5,Cash,Medicine,1,10,Friday
+2025-01-10,Food,31.0,Cash,Snacks,1,10,Friday
+2025-01-29,Food,104.0,Cash,Groceries,1,29,Wednesday
+2025-01-18,Transport,190.0,Mobile Money,Books,1,18,Saturday
+2025-02-12,Health,159.0,Cash,Lunch,2,12,Wednesday
+2025-03-10,Food,66.0,Cash,Lunch,3,10,Monday
+2025-03-16,Bills,90.0,Cash,Groceries,3,16,Sunday
+2025-01-17,Transport,119.5,Cash,Electricity bill,1,17,Friday
+2025-02-27,Health,78.0,Mobile Money,Groceries,2,27,Thursday
+2025-01-26,Bills,142.0,Card,Books,1,26,Sunday
+2025-01-07,Health,10.0,Card,Electricity bill,1,7,Tuesday
+2025-01-27,Transport,11.0,Mobile Money,Books,1,27,Monday
+2025-03-05,Health,20.0,Card,Books,3,5,Wednesday
+2025-02-18,Health,109.0,Mobile Money,Bus fare,2,18,Tuesday
+2025-02-11,Bills,153.0,Cash,Medicine,2,11,Tuesday
+2025-02-01,Food,119.5,Cash,Snacks,2,1,Saturday
+2025-01-21,Bills,152.0,Cash,Electricity bill,1,21,Tuesday
+2025-02-17,Shopping,67.0,Cash,Books,2,17,Monday
+2025-02-21,Shopping,8.0,Cash,Electricity bill,2,21,Friday
+2025-03-05,Transport,42.0,Cash,Movie,3,5,Wednesday
+2025-02-26,Shopping,67.0,Mobile Money,Medicine,2,26,Wednesday
+2025-01-01,Transport,167.0,Card,Electricity bill,1,1,Wednesday
+2025-01-13,Entertainment,130.0,Mobile Money,Movie,1,13,Monday
+2025-03-09,Food,23.0,Card,Groceries,3,9,Sunday
+2025-03-05,Shopping,125.0,Cash,Lunch,3,5,Wednesday
+2025-03-03,Education,185.0,Mobile Money,Books,3,3,Monday
+2025-02-01,Bills,169.0,Mobile Money,Groceries,2,1,Saturday
+2025-01-13,Education,119.5,Mobile Money,Electricity bill,1,13,Monday
+2025-03-31,Bills,119.5,Card,Movie,3,31,Monday
+2025-01-24,Health,173.0,Mobile Money,Books,1,24,Friday
+2025-03-17,Shopping,160.0,Mobile Money,Groceries,3,17,Monday
+2025-02-02,Bills,173.0,Card,Books,2,2,Sunday
+2025-01-30,Education,52.0,Card,Electricity bill,1,30,Thursday
+2025-03-13,Food,119.5,Cash,Medicine,3,13,Thursday
+2025-03-16,Entertainment,95.0,Cash,Groceries,3,16,Sunday
+2025-01-30,Entertainment,99.0,Mobile Money,Books,1,30,Thursday
+2025-02-14,Food,139.0,Mobile Money,Electricity bill,2,14,Friday
+2025-01-24,Food,129.0,Mobile Money,Electricity bill,1,24,Friday
+2025-01-10,Education,97.0,Mobile Money,Lunch,1,10,Friday
+2025-01-15,Entertainment,139.0,Card,Books,1,15,Wednesday
+2025-01-23,Shopping,133.0,Mobile Money,Groceries,1,23,Thursday
+2025-03-28,Shopping,199.0,Card,Groceries,3,28,Friday
+2025-04-01,Health,136.0,Cash,Electricity bill,4,1,Tuesday
+2025-01-15,Entertainment,84.0,Mobile Money,Medicine,1,15,Wednesday
+2025-01-23,Shopping,197.0,Mobile Money,Movie,1,23,Thursday
+2025-02-09,Entertainment,19.0,Card,Snacks,2,9,Sunday
+2025-02-18,Education,119.5,Cash,Medicine,2,18,Tuesday
+2025-01-21,Health,116.0,Mobile Money,Movie,1,21,Tuesday
+2025-02-02,Bills,145.0,Mobile Money,Movie,2,2,Sunday
+2025-03-01,Shopping,81.0,Mobile Money,Lunch,3,1,Saturday
+2025-01-02,Bills,64.0,Cash,Snacks,1,2,Thursday
+2025-01-29,Entertainment,130.0,Card,Books,1,29,Wednesday
+2025-03-04,Transport,160.0,Card,Books,3,4,Tuesday
+2025-01-16,Shopping,186.0,Card,Snacks,1,16,Thursday
+2025-02-18,Entertainment,56.0,Card,Movie,2,18,Tuesday
+2025-02-05,Food,119.5,Cash,Medicine,2,5,Wednesday
+2025-01-07,Transport,60.0,Mobile Money,Snacks,1,7,Tuesday

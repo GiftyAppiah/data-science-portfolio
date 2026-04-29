@@ -1,0 +1,251 @@
+Job_Title,Company,Location,Salary,Experience_Level,Skills,Job_Type
+Data Scientist,MTN,New York,10934,Senior,"R, Power BI, Excel, Machine Learning, Python",Part-time
+Machine Learning Engineer,MTN,Accra,2657,Entry,"R, TABLEAU, MACHINE LEARNING",Full-time
+Data Engineer,Microsoft,Hybrid,50000,Entry,"excel, python",Contract
+Data Engineer,IBM,London, 7521 ,Entry,"sql, tableau, power bi, machine learning, excel",Contract
+Machine Learning Engineer,Flutterwave,Hybrid, 11225 ,Senior,"machine learning, python",Full-time
+Data Scientist,Flutterwave,Remote,4405,Mid,"R, Statistics, SQL, Tableau",Part-time
+Data Scientist,Meta,Kumasi,4745,Senior,"MACHINE LEARNING, R, TABLEAU",Full-time
+Business Analyst,Flutterwave,New York,1996,Entry,"Excel, Python, R",Full-time
+Data Scientist,Meta,New York,5942,Mid,"sql, statistics",Part-time
+Business Analyst,Meta,Kumasi, 3104 ,Entry,"Power BI, Statistics, Tableau",Full-time
+Machine Learning Engineer,Andela,Kumasi,,Mid,"excel, r, statistics",Contract
+Data Engineer,Amazon,Hybrid,3890,Senior,"python, tableau, power bi, machine learning",Part-time
+Machine Learning Engineer,Flutterwave,New York, 3874 ,Mid,"Python, Power BI, Tableau",Part-time
+Machine Learning Engineer,IBM,London,3958,Senior,"SQL, STATISTICS, POWER BI",Full-time
+Data Analyst,Microsoft,Remote,1945,Senior,"Python, Tableau, SQL, Power BI",Full-time
+Machine Learning Engineer,IBM,Hybrid, 3973 ,Senior,"SQL, EXCEL, POWER BI",Contract
+Business Analyst,IBM,Hybrid,10106,Entry,"excel, python",Part-time
+Data Scientist,Flutterwave,London,7264,Entry,"SQL, Machine Learning",Full-time
+Data Analyst,Meta,Remote, 4859 ,Mid,"excel, power bi",Part-time
+Machine Learning Engineer,Google,Accra,2039,Mid,"Power BI, R, Machine Learning, Python, SQL",Part-time
+Data Scientist,Vodafone,Hybrid,7837,Entry,"EXCEL, POWER BI",Part-time
+Data Scientist,Google,Kumasi,11228,Entry,"TABLEAU, EXCEL, R, POWER BI",Full-time
+Data Analyst,Microsoft,New York,10439,Senior,"Statistics, Python",Part-time
+Business Analyst,IBM,New York, 4535 ,Entry,"Excel, Tableau, R",Part-time
+Business Analyst,Andela,Remote,3850,Entry,"Machine Learning, Excel, R, Statistics, SQL",Full-time
+Data Scientist,Vodafone,Hybrid,9116,Mid,"Machine Learning, Statistics, R, Power BI",Contract
+Data Analyst,Flutterwave,Remote,5444,Senior,"tableau, power bi",Contract
+Machine Learning Engineer,Amazon,Remote,2967,Senior,"Statistics, Python, SQL, Excel, Machine Learning",Part-time
+Machine Learning Engineer,Amazon,Hybrid, 4512 ,Entry,"POWER BI, EXCEL, R, MACHINE LEARNING",Contract
+Data Analyst,Flutterwave,New York,11563,Entry,"SQL, Excel, Machine Learning, Statistics, R",Contract
+Business Analyst,IBM,Kumasi,4220,Senior,"STATISTICS, PYTHON, POWER BI, EXCEL, SQL",Full-time
+Data Scientist,Vodafone,Hybrid,10381,Entry,"Excel, SQL, Statistics, Power BI",Part-time
+Data Scientist,Flutterwave,Accra,1905,Senior,"EXCEL, PYTHON",Contract
+Business Analyst,Andela,Hybrid, 2655 ,Mid,"power bi, sql, tableau",Full-time
+Data Engineer,Flutterwave,Remote,9178,Senior,"R, POWER BI, SQL, MACHINE LEARNING",Full-time
+Machine Learning Engineer,IBM,Hybrid,7069,Senior,"R, Tableau, Statistics, Python, Machine Learning",Contract
+Data Analyst,IBM,Accra,50000,Mid,"machine learning, sql, excel",Full-time
+Data Engineer,Flutterwave,Accra,11231,Senior,"sql, statistics",Part-time
+Business Analyst,Flutterwave,London, 7876 ,Mid,"R, Tableau, Machine Learning",Contract
+Data Analyst,MTN,New York,5906,Entry,"SQL, Machine Learning, Python",Contract
+Machine Learning Engineer,Meta,New York,1854,Entry,"power bi, statistics",Full-time
+Data Analyst,Meta,London,4307,Entry,"SQL, PYTHON",Contract
+Business Analyst,Andela,Hybrid,8027,Entry,"sql, python, excel, power bi, statistics",Part-time
+Machine Learning Engineer,Andela,London,2643,Senior,"R, PYTHON, MACHINE LEARNING, TABLEAU",Full-time
+Business Analyst,Google,London,6735,Entry,"R, Power BI",Contract
+Data Engineer,Meta,New York,10722,Entry,"PYTHON, TABLEAU, MACHINE LEARNING",Full-time
+Data Analyst,Amazon,Remote,5100,Entry,"SQL, Machine Learning",Contract
+Data Engineer,IBM,Hybrid,8163,Mid,"MACHINE LEARNING, PYTHON, EXCEL, POWER BI, TABLEAU",Part-time
+Machine Learning Engineer,Microsoft,Remote,6355,Senior,"R, Machine Learning, Python, Excel, SQL",Full-time
+Data Scientist,MTN,Hybrid,6052,Mid,"tableau, r",Full-time
+Data Analyst,Microsoft,London,2558,Entry,"Statistics, SQL, Excel, Tableau",Part-time
+Data Engineer,Andela,Accra,6790,Mid,"Excel, Power BI",Contract
+Data Engineer,MTN,Accra,10182,Mid,"SQL, Machine Learning",Full-time
+Data Analyst,Andela,New York,7372,Senior,"R, Machine Learning, Excel",Contract
+Data Scientist,Meta,New York, 10384 ,Senior,"POWER BI, R, EXCEL, PYTHON",Part-time
+Data Scientist,IBM,Kumasi,5577,Senior,"Tableau, Python, Excel, SQL",Contract
+Data Scientist,Microsoft,New York,3590,Senior,"Machine Learning, Excel, Statistics",Part-time
+Data Scientist,Amazon,New York,8710,Entry,"MACHINE LEARNING, POWER BI, SQL, PYTHON",Part-time
+Machine Learning Engineer,Andela,New York,6667,Entry,"Statistics, Machine Learning, SQL, Power BI",Contract
+Business Analyst,Meta,London,1783,Entry,"R, Power BI, Excel, Statistics, Tableau",Contract
+Data Engineer,Amazon,Remote,1708,Entry,"Machine Learning, Python",Full-time
+Machine Learning Engineer,IBM,Remote,11975,Senior,"TABLEAU, EXCEL, POWER BI",Part-time
+Machine Learning Engineer,Meta,Remote, 9987 ,Entry,"R, Tableau, SQL, Python, Statistics",Contract
+Business Analyst,MTN,Remote,8715,Senior,"Python, Tableau, Machine Learning",Contract
+Data Analyst,Vodafone,New York,9802,Mid,"TABLEAU, SQL, EXCEL",Contract
+Data Scientist,Andela,Hybrid,8991,Mid,"python, power bi, sql, machine learning",Contract
+Data Scientist,IBM,London,1867,Mid,"Power BI, SQL, Excel",Part-time
+Machine Learning Engineer,Andela,Kumasi,5298,Entry,"machine learning, power bi, statistics",Part-time
+Business Analyst,Amazon,New York,10912,Entry,"STATISTICS, MACHINE LEARNING, TABLEAU, R",Full-time
+Data Engineer,Vodafone,Accra,6906,Entry,"statistics, power bi, excel, tableau, python",Part-time
+Data Analyst,Vodafone,New York,3987,Senior,"MACHINE LEARNING, PYTHON, TABLEAU, STATISTICS",Contract
+Machine Learning Engineer,Google,Hybrid,6859,Entry,"python, power bi, excel",Part-time
+Data Analyst,Amazon,Kumasi,8714,Senior,"SQL, R",Part-time
+Machine Learning Engineer,Microsoft,New York,10248,Senior,"Excel, Tableau, Python, Machine Learning, R",Full-time
+Business Analyst,Amazon,Accra,3766,Mid,"TABLEAU, POWER BI, STATISTICS",Contract
+Machine Learning Engineer,Vodafone,New York,2906,Mid,"tableau, r, statistics, power bi",Full-time
+Data Engineer,Andela,New York,7757,Mid,"excel, r, power bi, statistics, sql",Full-time
+Data Analyst,Vodafone,London,8992,Entry,"Machine Learning, Statistics",Part-time
+Machine Learning Engineer,Meta,New York,4399,Mid,"R, Statistics",Contract
+Data Analyst,Vodafone,Accra,,Senior,"sql, excel",Part-time
+Data Scientist,Microsoft,Kumasi,3800,Mid,"R, SQL",Part-time
+Data Scientist,Google,Remote,9454,Mid,"TABLEAU, EXCEL, STATISTICS, R, MACHINE LEARNING",Contract
+Business Analyst,Google,New York, 3843 ,Entry,"Python, Statistics, Tableau, Machine Learning, Excel",Contract
+Business Analyst,Vodafone,London, 11783 ,Entry,"SQL, Excel, R",Full-time
+Machine Learning Engineer,Andela,Remote, 3015 ,Mid,"Statistics, Python, Power BI",Full-time
+Data Scientist,Vodafone,Hybrid,50000,Senior,"Machine Learning, Excel, Power BI, R",Part-time
+Data Engineer,Microsoft,Accra,8681,Mid,"PYTHON, MACHINE LEARNING, TABLEAU",Full-time
+Data Analyst,IBM,New York,6431,Mid,"statistics, r, power bi, tableau",Full-time
+Machine Learning Engineer,Meta,Hybrid,7698,Entry,"STATISTICS, EXCEL",Part-time
+Business Analyst,Microsoft,Hybrid,3056,Senior,"power bi, statistics",Contract
+Data Analyst,Amazon,Remote,,Entry,"r, python, machine learning, sql",Contract
+Data Analyst,Flutterwave,Hybrid,11541,Senior,"sql, tableau, statistics",Part-time
+Business Analyst,Flutterwave,Remote,5565,Mid,"Tableau, Machine Learning, R, Excel, Python",Part-time
+Data Engineer,MTN,Hybrid,50000,Mid,"Excel, Power BI, Machine Learning, SQL, Python",Full-time
+Business Analyst,Flutterwave,New York,1641,Entry,"Python, Excel",Contract
+Data Analyst,Flutterwave,Kumasi,5714,Mid,"R, PYTHON, MACHINE LEARNING, SQL",Full-time
+Data Scientist,MTN,Accra,9398,Entry,"SQL, Python, Excel, Power BI, Tableau",Full-time
+Machine Learning Engineer,MTN,Hybrid,6119,Entry,"Power BI, Machine Learning, Python, Statistics",Full-time
+Data Analyst,Amazon,Remote,1793,Entry,"SQL, POWER BI, STATISTICS, EXCEL",Full-time
+Business Analyst,Amazon,Accra,3261,Mid,"excel, statistics, sql, machine learning",Part-time
+Data Scientist,Amazon,London, 6478 ,Mid,"Statistics, Tableau, Python, R, Excel",Contract
+Data Engineer,Meta,Remote,6347,Entry,"Power BI, Tableau, SQL",Part-time
+Data Analyst,Meta,Hybrid,3588,Entry,"SQL, TABLEAU, R, MACHINE LEARNING",Full-time
+Data Analyst,Google,Hybrid,1567,Entry,"Excel, R, Python",Full-time
+Data Scientist,Meta,Accra,8911,Senior,"Tableau, Power BI, Python, Excel",Full-time
+Machine Learning Engineer,Google,Hybrid,2077,Entry,"Statistics, Python",Full-time
+Machine Learning Engineer,IBM,Remote,9232,Entry,"sql, tableau, r, excel, statistics",Part-time
+Data Scientist,Andela,Remote,10808,Senior,"SQL, Machine Learning, Python",Contract
+Data Engineer,Meta,Accra,,Entry,"tableau, python",Part-time
+Data Analyst,Andela,Kumasi,3848,Senior,"Machine Learning, Power BI",Full-time
+Data Scientist,MTN,Remote,7334,Entry,"sql, power bi, machine learning",Full-time
+Machine Learning Engineer,Andela,Remote,7958,Mid,"Power BI, Tableau, R",Contract
+Machine Learning Engineer,Microsoft,Remote, 11027 ,Entry,"statistics, power bi",Full-time
+Business Analyst,Vodafone,Kumasi,,Mid,"SQL, Machine Learning",Part-time
+Data Analyst,Flutterwave,Accra,9992,Senior,"excel, r, python, sql",Part-time
+Machine Learning Engineer,Flutterwave,Accra,8487,Senior,"tableau, excel, power bi, r, python",Part-time
+Data Analyst,IBM,Kumasi,7641,Mid,"Machine Learning, Python, Excel",Contract
+Data Scientist,Microsoft,Remote,6455,Mid,"Python, R, Statistics",Part-time
+Machine Learning Engineer,Flutterwave,London,3951,Entry,"tableau, excel, statistics, python",Full-time
+Machine Learning Engineer,Amazon,Remote, 11316 ,Entry,"r, excel, tableau",Full-time
+Data Engineer,Vodafone,New York, 2976 ,Entry,"machine learning, power bi, statistics",Contract
+Data Scientist,MTN,Kumasi,7485,Mid,"Excel, Power BI",Part-time
+Data Scientist,Vodafone,Remote,5284,Entry,"SQL, Statistics",Contract
+Data Scientist,Microsoft,New York,4952,Senior,"excel, power bi, machine learning",Part-time
+Data Scientist,Google,London,9361,Mid,"tableau, sql",Contract
+Data Analyst,Amazon,Remote, 10011 ,Senior,"Statistics, Machine Learning, Python, Tableau, SQL",Full-time
+Data Engineer,Andela,Kumasi, 7175 ,Entry,"Power BI, Tableau",Full-time
+Machine Learning Engineer,Google,Kumasi,11266,Mid,"R, Power BI, Excel, Tableau, Machine Learning",Part-time
+Business Analyst,Flutterwave,Hybrid,4940,Senior,"SQL, MACHINE LEARNING, STATISTICS, EXCEL",Contract
+Data Engineer,Vodafone,Hybrid,6698,Senior,"Statistics, SQL, Machine Learning",Contract
+Business Analyst,Meta,Hybrid,4378,Entry,"MACHINE LEARNING, POWER BI, EXCEL",Full-time
+Business Analyst,MTN,London, 6701 ,Mid,"power bi, tableau",Part-time
+Data Scientist,Vodafone,Remote,10848,Entry,"Python, Tableau",Part-time
+Data Analyst,IBM,New York,4540,Entry,"machine learning, statistics",Full-time
+Machine Learning Engineer,Vodafone,Accra,9979,Senior,"Tableau, Power BI, Excel",Part-time
+Data Engineer,IBM,New York,2181,Entry,"tableau, excel, power bi, python",Contract
+Data Scientist,Vodafone,Accra,8914,Entry,"Excel, R, Statistics",Contract
+Machine Learning Engineer,MTN,Accra,4362,Mid,"Python, Statistics, Machine Learning",Full-time
+Data Analyst,MTN,London,5219,Entry,"Excel, Statistics, Power BI, R",Contract
+Data Analyst,Flutterwave,New York,7542,Entry,"sql, python, tableau",Part-time
+Data Analyst,Vodafone,Hybrid, 7082 ,Mid,"Statistics, Machine Learning, SQL",Part-time
+Data Analyst,IBM,New York,,Mid,"power bi, tableau",Full-time
+Data Engineer,Meta,Remote,7377,Mid,"sql, excel, tableau, r, machine learning",Full-time
+Data Scientist,Vodafone,Accra,2359,Mid,"machine learning, sql, tableau, statistics, python",Part-time
+Machine Learning Engineer,MTN,Hybrid,9810,Senior,"Machine Learning, R, Power BI, Tableau, Python",Contract
+Business Analyst,Google,London,8975,Entry,"statistics, sql, r, machine learning, tableau",Full-time
+Data Analyst,Meta,Accra, 2962 ,Entry,"Machine Learning, SQL, R, Python",Part-time
+Data Scientist,Amazon,Kumasi,11970,Mid,"sql, python, excel",Full-time
+Data Engineer,Amazon,Remote, 3235 ,Senior,"EXCEL, MACHINE LEARNING, PYTHON, R, STATISTICS",Part-time
+Data Scientist,Andela,New York,4489,Mid,"EXCEL, R, PYTHON, POWER BI",Part-time
+Machine Learning Engineer,Google,Hybrid, 6948 ,Mid,"power bi, tableau",Contract
+Data Analyst,IBM,Kumasi,6391,Mid,"excel, sql, power bi",Part-time
+Data Scientist,Amazon,Remote,9190,Entry,"python, r",Part-time
+Data Scientist,MTN,London,2389,Entry,"power bi, r",Contract
+Data Engineer,MTN,Hybrid,6150,Senior,"PYTHON, STATISTICS, R, EXCEL",Full-time
+Data Engineer,IBM,Kumasi,4279,Mid,"excel, sql, tableau",Part-time
+Business Analyst,Flutterwave,Accra,10921,Mid,"power bi, sql, python, tableau",Part-time
+Data Scientist,MTN,London,11937,Mid,"r, tableau, excel, python, sql",Contract
+Machine Learning Engineer,Amazon,Kumasi, 7294 ,Mid,"SQL, EXCEL",Full-time
+Machine Learning Engineer,Google,London, 7039 ,Entry,"Machine Learning, R, Excel",Contract
+Data Scientist,Microsoft,Accra,,Mid,"POWER BI, SQL",Contract
+Business Analyst,Microsoft,New York,,Senior,"python, r, tableau",Contract
+Machine Learning Engineer,Meta,Hybrid,5923,Entry,"excel, tableau, power bi, sql",Contract
+Data Scientist,Amazon,Kumasi, 4007 ,Mid,"PYTHON, SQL, TABLEAU, POWER BI",Contract
+Machine Learning Engineer,MTN,Hybrid,50000,Entry,"R, Power BI, Machine Learning, SQL, Python",Part-time
+Data Scientist,Meta,Accra, 3636 ,Entry,"Power BI, R, Excel",Full-time
+Data Analyst,Andela,Accra,6253,Entry,"Tableau, Power BI, Excel, Machine Learning",Part-time
+Data Engineer,Google,London,9517,Entry,"power bi, machine learning",Full-time
+Data Engineer,Google,Accra,3221,Entry,"Python, Power BI, Tableau, SQL, R",Full-time
+Data Engineer,Flutterwave,London,10850,Senior,"Excel, Python, R",Contract
+Machine Learning Engineer,Amazon,Kumasi,4790,Senior,"Excel, SQL",Part-time
+Data Analyst,Vodafone,Accra,9422,Mid,"Machine Learning, R, Statistics, Power BI, Excel",Part-time
+Data Scientist,Meta,London,2838,Entry,"tableau, r, python",Full-time
+Data Scientist,Vodafone,Accra, 3011 ,Mid,"SQL, Tableau, Python, Excel, Machine Learning",Full-time
+Data Engineer,Vodafone,London,11530,Senior,"SQL, Excel, Machine Learning, Tableau, Power BI",Contract
+Business Analyst,MTN,Hybrid,8011,Mid,"Power BI, Tableau, Statistics, Machine Learning",Full-time
+Data Analyst,MTN,London,2722,Mid,"tableau, r, sql",Contract
+Data Analyst,Vodafone,Hybrid, 9098 ,Entry,"r, tableau, sql",Contract
+Data Analyst,Flutterwave,Kumasi,50000,Senior,"PYTHON, TABLEAU",Part-time
+Data Engineer,Microsoft,Remote,9961,Mid,"SQL, Python, Tableau, R, Power BI",Full-time
+Data Scientist,MTN,Hybrid, 3417 ,Mid,"Excel, Power BI, Machine Learning",Contract
+Data Scientist,Google,Kumasi,5375,Entry,"Power BI, SQL, Tableau",Full-time
+Data Analyst,Meta,Remote, 5950 ,Senior,"Statistics, Tableau, Excel",Part-time
+Data Scientist,Google,Kumasi,10229,Mid,"sql, statistics, python, machine learning, r",Full-time
+Machine Learning Engineer,Andela,New York,9230,Entry,"SQL, Excel",Part-time
+Machine Learning Engineer,Vodafone,Kumasi, 10898 ,Entry,"power bi, sql, tableau, excel, statistics",Full-time
+Data Analyst,Andela,London, 3043 ,Mid,"statistics, power bi, sql",Full-time
+Data Analyst,Flutterwave,London,4191,Senior,"Power BI, R, Statistics, Machine Learning",Contract
+Machine Learning Engineer,IBM,Hybrid, 7171 ,Mid,"SQL, R, STATISTICS, TABLEAU",Part-time
+Machine Learning Engineer,IBM,London,5487,Senior,"Tableau, SQL, R",Full-time
+Business Analyst,Meta,Kumasi,1541,Senior,"R, Power BI, Excel",Part-time
+Data Scientist,Amazon,Kumasi, 7117 ,Entry,"STATISTICS, PYTHON, POWER BI, EXCEL, SQL",Full-time
+Data Engineer,Andela,Hybrid,2627,Senior,"machine learning, power bi, excel, statistics",Contract
+Data Engineer,Flutterwave,Kumasi,,Senior,"tableau, statistics, machine learning, r, sql",Part-time
+Data Engineer,IBM,Accra,1599,Senior,"Python, Power BI, Machine Learning, Tableau, R",Part-time
+Data Scientist,Andela,Accra,7916,Entry,"SQL, MACHINE LEARNING, R",Part-time
+Machine Learning Engineer,Flutterwave,Remote,50000,Mid,"r, power bi, statistics",Full-time
+Machine Learning Engineer,Flutterwave,Hybrid,11619,Mid,"SQL, Statistics, Python, R, Tableau",Contract
+Business Analyst,MTN,Accra,9426,Senior,"PYTHON, MACHINE LEARNING, POWER BI, STATISTICS",Part-time
+Data Engineer,MTN,Remote,11346,Mid,"Excel, Python, Power BI, SQL, R",Full-time
+Business Analyst,IBM,Kumasi,9785,Senior,"Power BI, Tableau",Part-time
+Business Analyst,Google,Accra, 10421 ,Entry,"Tableau, Power BI, Machine Learning, Excel",Full-time
+Data Scientist,Microsoft,Kumasi,11387,Mid,"STATISTICS, PYTHON, R, SQL, TABLEAU",Part-time
+Data Analyst,Flutterwave,New York,50000,Entry,"Statistics, Power BI, R, Python",Contract
+Data Analyst,Amazon,New York,8700,Senior,"Tableau, Machine Learning, R, Excel",Part-time
+Data Engineer,Amazon,Remote,2138,Mid,"Tableau, Machine Learning, R",Full-time
+Machine Learning Engineer,Andela,Kumasi,6332,Mid,"python, statistics, excel",Part-time
+Machine Learning Engineer,Vodafone,Kumasi,3186,Mid,"Machine Learning, Statistics",Part-time
+Data Analyst,Microsoft,London,,Entry,"Statistics, Machine Learning, Power BI",Part-time
+Data Scientist,IBM,London,1876,Mid,"STATISTICS, EXCEL, R, SQL, POWER BI",Contract
+Data Analyst,Google,Hybrid,9603,Senior,"Power BI, R, Excel, Tableau, SQL",Contract
+Data Engineer,IBM,Hybrid, 1533 ,Mid,"SQL, Machine Learning, Statistics, Power BI",Part-time
+Data Scientist,Andela,Remote,3053,Senior,"Statistics, Tableau, R, SQL, Power BI",Full-time
+Business Analyst,Microsoft,Accra,5562,Senior,"Python, Power BI, Statistics, Excel",Contract
+Data Engineer,Andela,New York,8082,Mid,"PYTHON, STATISTICS",Part-time
+Data Engineer,MTN,London, 2874 ,Senior,"R, PYTHON, TABLEAU, SQL",Contract
+Business Analyst,IBM,New York, 11590 ,Mid,"STATISTICS, SQL",Contract
+Machine Learning Engineer,Microsoft,London,3662,Mid,"power bi, excel, machine learning, sql",Full-time
+Data Analyst,Google,Hybrid,5517,Mid,"Power BI, SQL, Tableau, Machine Learning",Full-time
+Data Engineer,IBM,Hybrid,3619,Senior,"R, Machine Learning, Python, Power BI, SQL",Full-time
+Machine Learning Engineer,Google,London,7119,Entry,"SQL, Power BI, Machine Learning",Contract
+Data Scientist,Vodafone,Remote,2166,Mid,"Python, Tableau",Contract
+Machine Learning Engineer,Vodafone,Hybrid,9297,Entry,"TABLEAU, EXCEL, STATISTICS",Full-time
+Data Engineer,MTN,New York,9988,Entry,"SQL, Power BI, Machine Learning, Tableau, Excel",Part-time
+Data Analyst,Vodafone,New York,5664,Senior,"Python, Excel",Part-time
+Business Analyst,IBM,London,2862,Entry,"PYTHON, EXCEL, SQL, TABLEAU",Part-time
+Data Engineer,Amazon,Remote,11650,Mid,"SQL, Tableau, Python, Excel",Full-time
+Machine Learning Engineer,MTN,New York,8960,Entry,"SQL, Power BI, R, Excel",Contract
+Data Scientist,Meta,Hybrid,11514,Senior,"POWER BI, MACHINE LEARNING",Part-time
+Data Engineer,Amazon,New York,8405,Entry,"Power BI, SQL, Statistics, Machine Learning",Full-time
+Machine Learning Engineer,Andela,Remote,9225,Mid,"Tableau, Machine Learning, SQL, R, Python",Full-time
+Machine Learning Engineer,Meta,Kumasi,11329,Entry,"excel, tableau, sql, r, statistics",Contract
+Data Scientist,Flutterwave,Hybrid,11385,Mid,"SQL, Tableau, Statistics",Contract
+Data Scientist,Amazon,New York,4004,Senior,"Machine Learning, Tableau, Power BI",Full-time
+Data Engineer,Meta,Remote,4167,Mid,"Machine Learning, Python",Contract
+Machine Learning Engineer,Andela,Remote,8210,Entry,"power bi, tableau",Part-time
+Machine Learning Engineer,Microsoft,London,11967,Entry,"MACHINE LEARNING, R, SQL, TABLEAU, PYTHON",Contract
+Data Engineer,Meta,Hybrid,5637,Senior,"python, machine learning",Full-time
+Business Analyst,MTN,Hybrid, 10598 ,Mid,"statistics, machine learning, python, tableau, sql",Full-time
+Data Analyst,Flutterwave,Remote, 2368 ,Mid,"statistics, machine learning, r, sql",Full-time
+Business Analyst,MTN,Remote, 11599 ,Mid,"MACHINE LEARNING, PYTHON, SQL, TABLEAU, R",Part-time
+Data Engineer,Amazon,Accra,2327,Entry,"PYTHON, STATISTICS, EXCEL",Part-time
+Data Scientist,Vodafone,Kumasi,10497,Entry,"Tableau, Power BI, Statistics, Excel, Machine Learning",Full-time
+Business Analyst,MTN,London,1656,Mid,"Tableau, SQL, Python, Excel, Statistics",Full-time
+Business Analyst,MTN,Remote, 11869 ,Mid,"R, Statistics, Python, SQL",Part-time
+Data Scientist,Flutterwave,London,8943,Mid,"STATISTICS, SQL, EXCEL",Contract
+Data Scientist,Meta,Remote,50000,Mid,"Machine Learning, Power BI",Part-time
+Machine Learning Engineer,Google,Hybrid,3640,Mid,"excel, tableau",Full-time
+Business Analyst,MTN,London,11130,Senior,"tableau, sql, power bi",Part-time
+Data Engineer,Meta,New York,10717,Mid,"POWER BI, STATISTICS, EXCEL, SQL",Full-time
